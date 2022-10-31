@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/xml_parser.dir/main.cpp.o CMakeFiles/xml_parser.dir/xml/Xml.cpp.o CMakeFiles/xml_parser.dir/value/Value.cpp.o CMakeFiles/xml_parser.dir/xml/Parser.cpp.o  -o xml_parser 

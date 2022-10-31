@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bob/workspace/CPPProjects/xml-parser/main.cpp
+iostream
+-
+xml/Xml.h
+/Users/bob/workspace/CPPProjects/xml-parser/xml/Xml.h
+
+/Users/bob/workspace/CPPProjects/xml-parser/value/Value.h
+string
+/Users/bob/workspace/CPPProjects/xml-parser/value/string
+
+/Users/bob/workspace/CPPProjects/xml-parser/xml/Xml.h
+string
+/Users/bob/workspace/CPPProjects/xml-parser/xml/string
+map
+/Users/bob/workspace/CPPProjects/xml-parser/xml/map
+list
+/Users/bob/workspace/CPPProjects/xml-parser/xml/list
+../value/Value.h
+/Users/bob/workspace/CPPProjects/xml-parser/value/Value.h
+
